@@ -1,4 +1,4 @@
 # benedicteoko.github.io
 PORTFOLIO
 
-[portfolio](html)
+[portfolio](index.html)
